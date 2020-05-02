@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Serial TV</string>
+    <string name="movies_name">Judul Film</string>
+    <string name="overview">Gambaran</string>
+    <string name="release">Tayang</string>
+    <string name="txt_release">Tayang</string>
+    <string name="txt_overview">Gambaran</string>
+    <string name="show_name">Judul</string>
+    <string name="show_release">Rilis</string>
+    <string name="show_description">Deskripsi</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+
+    <string-array name="data_name">
+        <item>Aquaman</item>
+        <item>Cold Persuit</item>
+        <item>Crimes</item>
+        <item>How to Train</item>
+        <item>Infinity War</item>
+        <item>Master Z</item>
+        <item>Ralph</item>
+        <item>Robin Hood</item>
+        <item>T34</item>
+        <item>Spiderman</item>
+    </string-array>
+
+    <string-array name="data_release">
+        <item> 21 Desember 2018</item>
+        <item> 7 Februari  2019</item>
+        <item> 14 November 2018</item>
+        <item> 3 Januari 2019</item>
+        <item> 25 April  2018</item>
+        <item> 20 Desember 2018</item>
+        <item> 20 November 2018</item>
+        <item> 21 November 2018</item>
+        <item> 27 Desember 2018</item>
+        <item> 6 Desember 2018</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, Orm setengah manusia, setengah saudara Atlantis dan pewaris sejati takhta.</item>
+        <item>Kehidupan keluarga yang tenang di Nels Coxman, seorang sopir bajak salju, menjadi kacau setelah pembunuhan putranya. Nels memulai perburuan dendam untuk Viking, raja obat bius yang dianggapnya bertanggung jawab atas pembunuhan itu, menghilangkan rekan Viking satu per satu. Ketika Nels semakin dekat dengan Viking, tindakannya membawa konsekuensi yang lebih tak terduga dan keras, karena ia membuktikan bahwa balas dendam adalah semua dalam eksekusi.</item>
+        <item>Gellert Grindelwald telah lolos dari penjara dan mulai mengumpulkan pengikut untuk tujuan-nya - meninggikan penyihir di atas semua makhluk non-magis. Satu-satunya yang mampu menghentikannya adalah penyihir yang pernah ia sebut teman terdekatnya, Albus Dumbledore. Namun, Dumbledore perlu mencari bantuan dari penyihir yang pernah menggagalkan Grindelwald sebelumnya, mantan muridnya Newt Scamander, yang setuju untuk membantu, tidak menyadari bahaya yang ada di depan. Garis digambar saat cinta dan kesetiaan diuji, bahkan di antara teman dan keluarga yang paling sejati, di dunia sihir yang semakin terpecah.</item>
+        <item>Ketika Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless dari pasangan yang tak teruji dan sulit ditangkap menarik Night Fury pergi. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka.</item>
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Menyusul kekalahannya oleh Master Ip, Cheung Tin Chi (Zhang) mencoba untuk membuat hidup dengan putranya yang masih muda di Hong Kong, menunggu meja di sebuah bar yang melayani ekspatriat. Tapi itu tidak lama sebelum campuran orang asing, uang, dan pemimpin triad menariknya sekali lagi ke pertarungan.</item>
+        <item>Penjahat video game, Ralph dan rekan-rekannya yang tidak sesuai, Vanellope von Schweetz harus mengambil risiko dengan melakukan perjalanan ke World Wide Web untuk mencari bagian pengganti untuk menyelamatkan video game Vanellope, Sugar Rush. Di atas kepala mereka, Ralph dan Vanellope mengandalkan warga internet - netizen - untuk membantu menavigasi jalan mereka, termasuk seorang pengusaha bernama Yesss, yang merupakan algoritma kepala dan jantung dan jiwa dari situs pembuat tren BuzzzTube .</item>
+        <item>Seorang pejuang perang yang keras dan komandan Moornya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.</item>
+        <item>Pada tahun 1944, sekelompok tentara Rusia yang berani berhasil melarikan diri dari penawanan Jerman di tank T-34 legendaris yang setengah hancur. Itu adalah saat-saat keberanian yang tak terlupakan, pertarungan sengit, cinta yang tak terpatahkan, dan mukjizat legendaris.</item>
+        <item>Seorang remaja yang tidak aman tetapi berani dan cerdas bernama Peter Parker, seorang siswa baru dari Midtown High, digigit laba-laba radioaktif dan diberi kekuatan. Dia menjadi pahlawan bernama Spider-Man setelah kematian pamannya dan dia harus beradaptasi dengan cara hidup baru ini.</item>
+    </string-array>
+
+
+    <array name="data_poster">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_cold_persuit</item>
+        <item>@drawable/poster_crimes</item>
+        <item>@drawable/poster_how_to_train</item>
+        <item>@drawable/poster_infinity_war</item>
+        <item>@drawable/poster_master_z</item>
+        <item>@drawable/poster_ralph</item>
+        <item>@drawable/poster_robin_hood</item>
+        <item>@drawable/poster_t34</item>
+        <item>@drawable/poster_spiderman</item>
+    </array>
+
+    <string-array name="show_name">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>Fairy Tail</item>
+        <item>Family Guy</item>
+        <item>Flash</item>
+        <item>Gotham</item>
+        <item>Naruto Shippuden</item>
+        <item>The Simpsons</item>
+        <item>The Walking Dead</item>
+    </string-array>
+
+    <string-array name="show_release">
+        <item> 21 Desember 2018</item>
+        <item> 15 Februari 2019</item>
+        <item> 26 Februari 1986</item>
+        <item> 12 Oktober  2009</item>
+        <item> 31 Januari 1999</item>
+        <item> 30 Juni 2022</item>
+        <item> 22 September 2014</item>
+        <item> 15 Februari 2007</item>
+        <item> 17 Desember 1989</item>
+        <item> 31 Oktober 2010</item>
+    </string-array>
+
+    <string-array name="show_description">
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur.</item>
+        <item>Anggota Patroli Doom masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super - tetapi juga membuat mereka terluka dan cacat. Trauma dan tertindas, tim menemukan tujuan melalui Ketua, yang menyatukan mereka untuk menyelidiki fenomena aneh yang ada - dan untuk melindungi Bumi dari apa yang mereka temukan.</item>
+        <item>Dahulu kala di pegunungan, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang bocah aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati. Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Kemudian suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma, yang pencariannya untuk Bola Naga mistis membawanya ke Goku adalah rumah. Bersama-sama, mereka berangkat untuk menemukan ketujuh dan mengabulkan keinginannya.</item>
+        <item>Lucy adalah seorang gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi Kota Harujion, dia bertemu Natsu, seorang pemuda yang mudah sakit karena segala jenis transportasi. Tapi Natsu bukan sembarang anak biasa, ia adalah anggota dari salah satu dunia yang paling terkenal sebagai guild mage: Fairy Tail.</item>
+        <item>Seri animasi animasi Freakin Sweet yang sakit, terpelintir, dan salah, menampilkan petualangan keluarga Griffin yang disfungsional. Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie (bayi yang brilian tetapi sadis yang bertekad membunuh ibunya dan mengambil alih dunia), Meg (yang tertua, dan merupakan gadis yang paling tidak populer di kota) dan Chris (anak tengah, dia tidak terlalu cerdas tetapi memiliki hasrat untuk film ). Anggota terakhir keluarga itu adalah Brian - anjing yang bisa bicara dan lebih dari sekadar hewan peliharaan, ia menjaga Stewie, sementara menghirup Martinis dan memilah-milah masalah hidupnya sendiri.</item>
+        <item>Film mandiri dengan The Flash terletak di DC Extended Universe.</item>
+        <item>Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu dunia kejahatan yang merupakan musuh terbesar, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui dari Gordon adalah cerita dan kebangkitannya dari detektif pemula ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya dunia adalah penjahat paling ikonik? Dan keadaan apa yang menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker?</item>
+        <item>Naruto Shippuuden adalah kelanjutan dari serial TV animasi asli Naruto. Kisah ini berkisah tentang Uzumaki Naruto yang lebih tua dan sedikit lebih matang dan upayanya untuk menyelamatkan temannya Uchiha Sasuke dari cengkeraman Shinobi seperti ular, Orochimaru. Setelah 2 setengah tahun, Naruto akhirnya kembali ke desanya Konoha, dan mulai mewujudkan ambisinya, meskipun itu tidak akan mudah, karena Dia telah mengumpulkan beberapa musuh (lebih berbahaya), seperti organisasi shinobi. ; Akatsuki.</item>
+        <item>Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum.</item>
+        <item>Sheriff adalah wakil Rick Grimes yang terbangun dari koma untuk menemukan dunia pasca-apokaliptik yang didominasi oleh zombie pemakan daging. Dia berangkat untuk menemukan keluarganya dan bertemu banyak penyintas lainnya di sepanjang jalan.</item>
+
+    </string-array>
+
+
+    <array name="show_poster">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_the_simpson</item>
+        <item>@drawable/poster_the_walking_dead</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

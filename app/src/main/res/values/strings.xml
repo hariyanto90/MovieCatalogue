@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Tv Show</string>
+    <string name="movies_name">Judul Movie</string>
+    <string name="overview">Overview</string>
+    <string name="release">Realese</string>
+    <string name="txt_release">Release</string>
+    <string name="txt_overview">Overview</string>
+    <string name="show_name">Judul</string>
+    <string name="show_release">Rilis</string>
+    <string name="show_description">Deskripsi</string>
+    <string name="change_language_settings">Change Language Settings</string>
+
+
+    <string-array name="data_name">
+        <item>Aquaman</item>
+        <item>Cold Persuit</item>
+        <item>Crimes</item>
+        <item>How to Train</item>
+        <item>Infinity War</item>
+        <item>Master Z</item>
+        <item>Ralph</item>
+        <item>Robin Hood</item>
+        <item>T34</item>
+        <item>Spiderman</item>
+    </string-array>
+
+    <string-array name="data_release">
+        <item> December 21, 2018</item>
+        <item> February 7, 2019</item>
+        <item> November 14, 2018</item>
+        <item> January 3, 2019</item>
+        <item> April 25, 2018</item>
+        <item> December 20, 2018</item>
+        <item> November 20, 2018</item>
+        <item> November 21, 2018</item>
+        <item> December 27, 2018</item>
+        <item> December 6, 2018</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm is half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>The quiet family life of Nels Coxman, a snowplow driver, is upended after his sons murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Vikings associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution.</item>
+        <item>Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Following his defeat by Master Ip, Cheung Tin Chi (Zhang) tries to make a life with his young son in Hong Kong, waiting tables at a bar that caters to expats. But it s not long before the mix of foreigners, money, and triad leaders draw him once again to the fight.</item>
+        <item>Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope is video game, Sugar Rush. In way over their heads, Ralph and Vanellope rely on the citizens of the internet -- the netizens -- to help navigate their way, including an entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site BuzzzTube.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>n 1944, a courageous group of Russian soldiers managed to escape from German captivity in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery, fierce fighting, unbreakable love, and legendary miracles.</item>
+        <item>An insecure but courageous and intelligent teen named Peter Parker, a new student of Midtown High, is bitten by a radioactive spider and given powers. He becomes a hero named Spider-Man after the death of his uncle and he must adapt to this new way of life.</item>
+    </string-array>
+
+
+    <array name="data_poster">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_cold_persuit</item>
+        <item>@drawable/poster_crimes</item>
+        <item>@drawable/poster_how_to_train</item>
+        <item>@drawable/poster_infinity_war</item>
+        <item>@drawable/poster_master_z</item>
+        <item>@drawable/poster_ralph</item>
+        <item>@drawable/poster_robin_hood</item>
+        <item>@drawable/poster_t34</item>
+        <item>@drawable/poster_spiderman</item>
+    </array>
+
+    <string-array name="show_name">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>Fairy Tail</item>
+        <item>Family Guy</item>
+        <item>Flash</item>
+        <item>Gotham</item>
+        <item>Naruto Shippuden</item>
+        <item>The Simpsons</item>
+        <item>The Walking Dead</item>
+    </string-array>
+
+    <string-array name="show_release">
+        <item> December 21, 2018</item>
+        <item> February 15, 2019</item>
+        <item> February 26, 1986</item>
+        <item> October 12, 2009</item>
+        <item> January 31, 1999</item>
+        <item> June 30, 2022</item>
+        <item> September 22, 2014</item>
+        <item> February 15, 2007</item>
+        <item> December 17, 1989</item>
+        <item> Oktober 31, 2010</item>
+    </string-array>
+
+    <string-array name="show_description">
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</item>
+        <item>The Doom Patrols members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.</item>
+        <item>Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy was on his own, but easily managed. Then one day, Goku met a teenage girl named Bulma, whose search for the mystical Dragon Balls brought her to Goku is home. Together, they set off to find all seven and to grant her wish.</item>
+        <item>Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn it just any ordinary kid, he is a member of one of the world is most infamous mage guilds: Fairy Tail.</item>
+        <item>Sick, twisted, politically incorrect and Freakin Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he is not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.</item>
+        <item>The standalone film with The Flash set in the DC Extended Universe.</item>
+        <item>Everyone knows the name Commissioner Gordon. He is one of the crime world is greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon is story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world is most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker? </item>
+        <item>Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki.</item>
+        <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</item>
+        <item>Sheriff is deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</item>
+
+    </string-array>
+
+
+    <array name="show_poster">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_the_simpson</item>
+        <item>@drawable/poster_the_walking_dead</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
